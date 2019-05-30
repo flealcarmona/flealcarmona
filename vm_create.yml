@@ -7,7 +7,7 @@
   connection: local
   vars:
     Resource_group: RG_Test 
-    VM_name: vmtest
+    VM_name: vmflealcarmona
     Location: westeurope
     Vnet_name: Vnet-Test
     Subnet_name: Subnet_Test
